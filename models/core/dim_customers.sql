@@ -1,3 +1,5 @@
+-- dim_customers
+
 with customers as (
 
      select *
