@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    database: raw
+    database: demo_db
     tables:
       - name: customers
       - name: orders
