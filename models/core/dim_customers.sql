@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -- customer dim
+=======
+-- dim_customers
+>>>>>>> a3424ca972a722cfc3cd5258bfce9db4108141b0
 
 with customers as (
 
