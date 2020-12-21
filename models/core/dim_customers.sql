@@ -1,3 +1,5 @@
+-- customer dim
+
 with customers as (
 
      select *
